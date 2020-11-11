@@ -6,9 +6,10 @@ This blog involves the following technologies:
 * Bootstrap
 * HTML
 * CSS
-* Database
+* SQLAlchemy
 
 ### Features:
-* User registration/logins
-* CRUD operations for posts uplodaed by users
-* Password encryption to maintain security
+* User registration/logins - implemented
+* CRUD operations for posts uplodaed by users - to be developed
+* Password encryption to maintain security - implemented
+* Login sessions management - implemented
