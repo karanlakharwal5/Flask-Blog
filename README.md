@@ -9,7 +9,7 @@ This blog involves the following technologies:
 * SQLAlchemy
 
 ### Features:
-|---------------------------------------------|-------------|
+
 | User registration/logins                    | Implemented |
 | CRUD operations for posts uploaded by users | Implemented |
 | Password encryption to maintain security    | Implemented |
