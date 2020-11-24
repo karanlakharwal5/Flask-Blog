@@ -6,7 +6,8 @@ This blog involves the following technologies:
 * Bootstrap
 * HTML
 * CSS
-* SQLAlchemy
+* SQLAlchemy  
+* Jinja
 
 ### Features:
 
@@ -17,6 +18,6 @@ This blog involves the following technologies:
 | Password encryption to maintain security    | Implemented  |
 | Login sessions management                   | Implemented  |
 | Pagination                                  | Implemented  |
-| Reset Email and Password                    | To be done   |
+| Reset Email and Password                    | Implemented  |
 | Flask Blueprints and Configurations         | To be done   |
-| Custom Error pages                          |  To be done  |  |
+| Custom Error pages                          |  To be done  |
