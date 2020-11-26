@@ -19,5 +19,5 @@ This blog involves the following technologies:
 | Login sessions management                   | Implemented  |
 | Pagination                                  | Implemented  |
 | Reset Email and Password                    | Implemented  |
-| Flask Blueprints and Configurations         | To be done   |
+| Flask Blueprints and Configurations         | Implemented  |
 | Custom Error pages                          |  To be done  |
