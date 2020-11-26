@@ -20,4 +20,4 @@ This blog involves the following technologies:
 | Pagination                                  | Implemented  |
 | Reset Email and Password                    | Implemented  |
 | Flask Blueprints and Configurations         | Implemented  |
-| Custom Error pages                          |  To be done  |
+| Custom Error pages                          | Implemented  |
